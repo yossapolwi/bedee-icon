@@ -15,7 +15,9 @@ async function transformSVGtoJSX(file, componentName, format) {
     content,
     {
       icon: false,
-      replaceAttrValues: { '#000000': "{props.color || '#000000'}" },
+      replaceAttrValues: {
+        "#000000": "{props.color}",
+      },
       svgProps: {
         width: +sizeArgs,
         height: +sizeArgs,

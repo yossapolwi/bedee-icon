@@ -1,0 +1,1 @@
+const React=require("react");function ArrowLeftIcon(e){return React.createElement("svg",Object.assign({xmlns:"http://www.w3.org/2000/svg",fill:"none",viewBox:"0 0 24 24",width:24,height:24},e),React.createElement("path",{stroke:"#000",strokeLinecap:"round",strokeLinejoin:"round",strokeWidth:2,d:"m10 19-7-7m0 0 7-7m-7 7h18"}))}module.exports=ArrowLeftIcon;

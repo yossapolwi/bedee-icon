@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-  <g stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" clip-path="url(#a)">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke-width="1.5" aria-hidden="true" data-slot="icon" viewBox="0 0 24 24" stroke="currentColor">
+  <g stroke-linecap="round" stroke-linejoin="round" clip-path="url(#a)">
     <path d="M1.5 20.25h21m-9 0V3.75c0-.19891-.079-.38968-.2197-.53033C13.1397 3.07902 12.9489 3 12.75 3h-9c-.19891 0-.38968.07902-.53033.21967S3 3.55109 3 3.75v16.5m18 0V9.75c0-.19891-.079-.38968-.2197-.53033C20.6397 9.07902 20.4489 9 20.25 9H13.5M8 6v4m2-2H6m0 9h4m-4-3h4m6.5 2.5H18m-1.5-3.75H18"/>
   </g>
   <defs>

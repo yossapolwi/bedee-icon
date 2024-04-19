@@ -1,0 +1,1 @@
+import*as React from"react";function DotIcon(t){return React.createElement("svg",Object.assign({xmlns:"http://www.w3.org/2000/svg",fill:"none",strokeWidth:1.5,"aria-hidden":"true","data-slot":"icon",viewBox:"0 0 24 24",stroke:"currentColor",width:24,height:24},t),React.createElement("circle",{cx:12,cy:12,r:2.5,fill:"#000"}))}export default DotIcon;
